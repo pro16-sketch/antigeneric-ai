@@ -1,0 +1,7 @@
+{
+  "name": "Antigen AI - Anti-Generic Brand Intelligence",
+  "description": "Generate high-authority brand strategy, design tokens, red-team cliché audits, and multi-channel marketing campaigns.",
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
